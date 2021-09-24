@@ -7,4 +7,3 @@ matplotlib
 plotly
 voila
 voila-material
-
